@@ -1,0 +1,20 @@
+/* CSS for styling the button */
+.stButton > button {
+    color: white;
+    background-color: #4CAF50; /* Green */
+    padding: 10px 24px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+/* Styling the sidebar inputs */
+.sidebar .stNumberInput > div > div > input {
+    background-color: #f1f1f1;
+}
+
+/* Changing sidebar header color */
+.sidebar .stHeader {
+    color: #4CAF50;
+}
